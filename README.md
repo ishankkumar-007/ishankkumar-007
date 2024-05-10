@@ -13,7 +13,12 @@ I'm passionate about crafting digital experiences and exploring the realms of te
 ### Let's Connect
 Feel free to reach out for collaborations, discussions, or just to say hello! You can find me on [LinkedIn](https://www.linkedin.com/in/ishank-kumar/) and [Twitter](https://twitter.com/IshankKumar007).
 
-
+- 📫 How to reach me **ishankkumar123@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ishank-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwanth" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishank_kumarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashwanthpeddisetty" height="30" width="40" /></a>
+</p>
 <!--
 **ishankkumar-007/ishankkumar-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
