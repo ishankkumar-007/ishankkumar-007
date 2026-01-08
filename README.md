@@ -2,6 +2,7 @@
 
 ### About Me
 I'm passionate about crafting digital experiences and exploring the realms of technology. I like bringing ideas to life through code.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankkumar-007&label=Profile%20views&color=lightgrey&style=flat" alt="ishankkumar-007" /> </p>
 
 ### Interests
 - Problem Solving 🧩: Passionate about tackling challenges and finding solutions, with a keen interest that extends beyond just coding.
